@@ -1,0 +1,7 @@
+[package]
+name = "netcat"
+version = "0.0.0"
+authors = ["Mikael Voss <mvs@nyantec.com>"]
+
+[dependencies]
+getopts = "0.2"
